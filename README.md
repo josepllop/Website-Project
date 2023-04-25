@@ -18,7 +18,7 @@ The main reason is because recruiting processes, especially in tech tend to be c
 # Mockup development
 ## Slide 1
 ![Imagen 1](/images/ppt1.png "Wireframe 1")
-## Slide 1
+## Slide 2
 ![Imagen 1](/images/ppt2.png "Wireframe 1")
-## Slide 1
+## Slide 3
 ![Imagen 1](/images/ppt3.png "Wireframe 1")
