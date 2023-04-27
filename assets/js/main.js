@@ -6,6 +6,11 @@
 
 (function($) {
 
+	$("form").submit(function(e){
+		e.preventDefault();
+		alert("Thanks! We will be in touch.");
+	});
+
 	var	$window = $(window),
 		$body = $('body'),
 		$wrapper = $('#wrapper'),
